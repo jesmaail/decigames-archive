@@ -8,3 +8,7 @@ __A store for old and "un-fun" games I've developed.__
 # Emberboy
 - Built on the concept of avoiding the rain.
 - Fire sprite character would extinguish with each hit.
+
+# Bounce
+- Name based from Calvin Harris song of the same name. 
+- I actually like this mechanic, want to reexplore it.

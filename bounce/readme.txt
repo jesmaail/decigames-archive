@@ -1,0 +1,1 @@
+Updated to Phaser 2.0.6!
