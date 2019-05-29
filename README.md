@@ -1,4 +1,6 @@
 # DeciGames-Archive
+__A store for old and "un-fun" games I've developed.__
 
-- Move the old Phaser games into here while they aren't updated to much more readable code.
-- Maybe leave the better ones in their own repos.
+# Dragon
+- Game based around the two concept words "Dragon" and "Ale".
+- Bad gameplay meets horrible MSPaint graphics, but lots of lessons learnt.
